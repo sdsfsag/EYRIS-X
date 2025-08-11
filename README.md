@@ -7,3 +7,5 @@ A Palantir copy (prototype)
 
 # How to start
 > **cd EYRIS-X v2** | **python -m venv .venv** | **.venv\Scripts\activate** | **pip install -r requirements.txt** | **uvicorn app:app --reload**
+
+> Then open http://127.0.0.1:8000/auth/login
